@@ -16903,6 +16903,7 @@ GameObject:
   - component: {fileID: 1241090238}
   - component: {fileID: 1241090237}
   - component: {fileID: 1241090241}
+  - component: {fileID: 1241090242}
   m_Layer: 0
   m_Name: video sphere
   m_TagString: Untagged
@@ -17010,6 +17011,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   videoSphere: {fileID: 1241090236}
   videoPlayer: {fileID: 1150729808}
+--- !u!114 &1241090242
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1241090236}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6d75759dd2b26f46a58659b731d7706, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1242843410
 PrefabInstance:
   m_ObjectHideFlags: 0
