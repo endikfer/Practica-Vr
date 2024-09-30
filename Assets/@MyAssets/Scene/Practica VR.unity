@@ -5229,7 +5229,7 @@ MeshCollider:
   m_LayerOverridePriority: 0
   m_IsTrigger: 0
   m_ProvidesContacts: 0
-  m_Enabled: 0
+  m_Enabled: 1
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
@@ -31735,9 +31735,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "  Encender y apagar  TV:\n  Boton principal\n\n  Mision: Buscar herramientas
-    y\n  guardarlas en la cesta/mesa\n  -Tornillo\n  -Destornillador\n  -Alicate\n 
-    -Llave inglesa\n\n  Easter egg: \n  Encontra video 360 oculto por el\n  mapa"
+  m_text: "  Encender y apagar  TV:\n  Gatillo\n\n  Mision: Buscar herramientas y\n 
+    guardarlas en la cesta/mesa\n  -Tornillo\n  -Destornillador\n  -Alicate\n  -Llave
+    inglesa\n\n  Easter egg: \n  Encontra video 360 oculto por el\n  mapa"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
